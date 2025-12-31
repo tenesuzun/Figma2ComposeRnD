@@ -1,0 +1,56 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Gradle
+/.gradle/
+/build/
+/**/build/
+
+# Local config (SDK path, etc.)
+local.properties
+
+# Gradle wrapper caches
+.gradle/
+
+# Android Studio / IntelliJ
+/.idea/
+/*.iml
+.idea/caches/
+.idea/libraries/
+.idea/workspace.xml
+.idea/shelf/
+.idea/tasks.xml
+
+# Android build outputs and packages
+*.apk
+*.ap_
+*.aab
+*.keystore
+*.jks
+
+# Native build
+.externalNativeBuild/
+.cxx/
+obj/
+jniLibs/*.so
+
+# Generated / build artifacts
+gen/
+out/
+
+# Java/Kotlin artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs, temp, OS
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Misc
+captures/
+firebase-debug.log
